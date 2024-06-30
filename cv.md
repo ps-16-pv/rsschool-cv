@@ -1,36 +1,33 @@
-**Павел Седых**
+# Pavel Sedykh
 **isk_pvs@bk.ru**
-**Краткая информация о себе**
- 1. Запланировано изучение и приобретение навыков работы с:
+
+## INFORMATION ABOUT ME
+### It is planned to study and acquire skills to work with:
  * Git
  * JS / FRONT-END (Stage 0-1-2-3)
-  2. Приоритеты: 
- * разработка прикладных программных средств 
- * исследовательская работа
- 3. Сильные стороны:
- * отличная память и развитое логическое мышление
- * настойчивость
- 4. Текущая деятельность:
- * преподавание
- * исследовательская работа
- 5. Навыки работы с:
- * сетями и системами передачи информации
- * Office 365, в т. ч. Clipchamp
+
+### Priorities: 
+ * development of application software 
+ * research
+### Strengths:
+ * excellent memory and developed logical thinking
+ * perseverance
+ ### Current activity:
+ * teaching
+ * research
+### Skills to work with:
+ * Office 365 (include Clipchamp)
  * TickTick, Evernote, Mozilla Thunderbird, Outlook
  * Moodle
- * Python (основы: ввод-вывод данных, условный оператор, типы данных, циклы, строковый тип данных), IDE: Wing, Pycharm CE
- * HTML (структура, ссылки, разметка, графика, формы) и CSS, IDE: VScode
- * созданием Telegram-bot’а (функции: запись голоса, перевод из текста в голос, из голоса в текст, редактирование изображений)
+ * Python (basic), IDE: Wing, Pycharm CE
+ * HTML|CSS (basic), IDE: VScode
+ * create Telegram-bot’s
  * ChatGPT, Bing AI, Copilot
- * блокчейн и криптовалютами
+ * blockchain, cryptocurrencies
  * n = int(input())
- f1 = 0
- f2 = 1
- for _ in range(0, n):
-    f1, f2 = f2, f1 + f2
-    print(f1, end = ' ')
-6. Образование:
-* Техник-механик (ССО)
-* Юрист (ВО - 1-я и 2-я ступень)
-* курсы: кибербезопасность, криптоэкономика, информационные технологии в ПОД/ФТ
-7. Английский язык: B1, языковая практика с native speakers
+### Education:
+* mechanic technician (SSE)
+* lawyer (HE - level 1 and 2)
+* courses: cybersecurity, cryptoeconomics, information technology in AML/CFT
+### English: 
+B1, language practice with native speakers
