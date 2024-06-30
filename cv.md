@@ -12,7 +12,7 @@
 ### Strengths:
  * excellent memory and developed logical thinking
  * perseverance
- ### Current activity:
+### Current activity:
  * teaching
  * research
 ### Skills to work with:
@@ -20,14 +20,13 @@
  * TickTick, Evernote, Mozilla Thunderbird, Outlook
  * Moodle
  * Python (basic), IDE: Wing, Pycharm CE
- * HTML|CSS (basic), IDE: VScode
+ * HTML/CSS (basic), IDE: VScode
  * create Telegram-bot’s
  * ChatGPT, Bing AI, Copilot
  * blockchain, cryptocurrencies
- * n = int(input())
 ### Education:
 * mechanic technician (SSE)
 * lawyer (HE - level 1 and 2)
 * courses: cybersecurity, cryptoeconomics, information technology in AML/CFT
 ### English: 
-B1, language practice with native speakers
+* B1, language practice with native speakers**
