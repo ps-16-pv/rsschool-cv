@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ps-16-pv.github.io/rsschool-cv/
