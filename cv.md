@@ -1,14 +1,12 @@
 # Pavel Sedykh
 **isk_pvs@bk.ru**
-
 ## INFORMATION ABOUT ME
 ### It is planned to study and acquire skills to work with:
  * Git
  * JS / FRONT-END (Stage 0-1-2-3)
-
 ### Priorities: 
  * development of application software 
- * research
+ * research 
 ### Strengths:
  * excellent memory and developed logical thinking
  * perseverance
